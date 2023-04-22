@@ -13617,7 +13617,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGHl274raCwtbM="
 					},
-					"name": "ActivityDiagramLogin",
+					"name": "ADLogin",
 					"ownedViews": [
 						{
 							"_type": "UMLControlNodeView",
@@ -18127,7 +18127,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGHl274raCwtbM="
 					},
-					"name": "ActivityDiagramNotification",
+					"name": "ADNotification",
 					"ownedViews": [
 						{
 							"_type": "UMLControlNodeView",
@@ -21071,7 +21071,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGHl274raCwtbM="
 					},
-					"name": "ActivityDiagramPTable",
+					"name": "ADPTable",
 					"ownedViews": [
 						{
 							"_type": "UMLControlNodeView",
