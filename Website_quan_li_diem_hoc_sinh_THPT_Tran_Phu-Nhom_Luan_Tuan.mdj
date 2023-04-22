@@ -13609,7 +13609,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "ActivityDiagran",
+			"name": "ActivityDiagram",
 			"ownedElements": [
 				{
 					"_type": "UMLActivityDiagram",
