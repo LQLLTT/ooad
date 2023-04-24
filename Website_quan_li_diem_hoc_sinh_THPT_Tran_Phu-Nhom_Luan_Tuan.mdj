@@ -36530,6 +36530,48 @@
 							}
 						}
 					]
+				},
+				{
+					"_type": "UMLActivityDiagram",
+					"_id": "AAAAAAGHsl7RUntpN58=",
+					"_parent": {
+						"$ref": "AAAAAAGHl274raCwtbM="
+					},
+					"name": "ActivityDiagramTaoTaiKhoan",
+					"ownedViews": [
+						{
+							"_type": "UMLControlNodeView",
+							"_id": "AAAAAAGHsl9CB3upeYg=",
+							"_parent": {
+								"$ref": "AAAAAAGHsl7RUntpN58="
+							},
+							"model": {
+								"$ref": "AAAAAAGHsl9CB3un18o="
+							},
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 296,
+							"top": 392,
+							"width": 20,
+							"height": 20
+						},
+						{
+							"_type": "UMLControlNodeView",
+							"_id": "AAAAAAGHsl9GF3uuj0c=",
+							"_parent": {
+								"$ref": "AAAAAAGHsl7RUntpN58="
+							},
+							"model": {
+								"$ref": "AAAAAAGHsl9GF3us2YI="
+							},
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 680,
+							"top": 784,
+							"width": 26,
+							"height": 26
+						}
+					]
 				}
 			],
 			"nodes": [
@@ -37628,6 +37670,22 @@
 						"$ref": "AAAAAAGHl274raCwtbM="
 					},
 					"name": "MergeNode12"
+				},
+				{
+					"_type": "UMLInitialNode",
+					"_id": "AAAAAAGHsl9CB3un18o=",
+					"_parent": {
+						"$ref": "AAAAAAGHl274raCwtbM="
+					},
+					"name": "InitialNode8"
+				},
+				{
+					"_type": "UMLActivityFinalNode",
+					"_id": "AAAAAAGHsl9GF3us2YI=",
+					"_parent": {
+						"$ref": "AAAAAAGHl274raCwtbM="
+					},
+					"name": "ActivityFinalNode8"
 				}
 			],
 			"edges": [
